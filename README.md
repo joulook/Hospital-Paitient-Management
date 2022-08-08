@@ -4,7 +4,7 @@ My 7th project was in the "Advance Programming" course at spring 2016 when I was
 
 
 
-| <img src="out.jpg" alt="Pair Game" width="400"/> | 
+| <img src="out.jpg" alt="Pair Game" width="900"/> | 
 |:--:| 
 | *sample output* |
 
